@@ -1,6 +1,4 @@
-Here is a comprehensive, professional README for your AI Chatbot service. It covers setup, configuration, API usage, and integration notes.
 
----
 
 # Hotel AI Assistant – Service
 
