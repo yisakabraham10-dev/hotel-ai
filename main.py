@@ -1,5 +1,10 @@
-# main.py
+import os
 import logging
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
 from rag.pipeline import rag_pipeline
 from tasks.task_extractor import classify_message
 from unanswered_queries import save_unanswered_query
